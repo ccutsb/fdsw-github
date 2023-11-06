@@ -2,6 +2,18 @@ body {
   font-family: "Raleway", sans-serif;
 }
 
+/* Nav */
+
+.banner1 {
+  
+  margin-left: px;
+  outline: 2px solid rgb(57, 137, 91);
+  border-radius: 12px;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
+
 /* Hero Section */
 
 #Hero-Section {
@@ -10,6 +22,12 @@ body {
   background-size: cover;
   background-position: center;
   height: 500px;
+}
+
+/*Acerca de mi*/
+
+#Acerca-de-mi {
+  padding-top: px;
 }
 
 /* Mis trabajos */
